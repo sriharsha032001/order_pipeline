@@ -1,0 +1,19 @@
+# Java / Maven ignore
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ / Eclipse / VSCode
+.idea/
+.classpath
+.project
+.settings/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
